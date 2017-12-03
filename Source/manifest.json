@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "It's Bitcoin Cash",
+	"name": "It's Bcash",
 	"version": "1.0",
-	"description": "Replaces the text 'Bcash' with the official recognized name 'Bitcoin Cash'.",
+	"description": "Replaces the confusing text 'Bitcoin Cash' with the less confusing name 'Bcash'.",
 	"content_scripts":
 	[
 		{
